@@ -43,3 +43,4 @@ $(call force,CFG_ARM32_core,y)
 endif
 
 CFG_WITH_STACK_CANARIES ?= y
+CFG_DT ?= y
